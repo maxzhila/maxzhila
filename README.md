@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/maxzhila/maxzhila/output/snake.svg" alt="Snake animation" />
-
-###
